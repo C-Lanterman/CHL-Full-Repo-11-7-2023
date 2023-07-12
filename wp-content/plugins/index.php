@@ -1,2 +1,2 @@
 <?php
-// Silence is golden.
+// to be quiet is to be sane
